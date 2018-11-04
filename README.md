@@ -79,6 +79,7 @@ csvExporter.generateCsv(data);
 
 |        Credits and Original Authors        |
 | :------------- |
+| **[alexcaza](https://github.com/alexcaza)** |
 | **[javiertelioz](https://github.com/javiertelioz)** |
 | **[sn123](https://github.com/sn123)** |
 | **[arf1980](https://github.com/arf1980)** |
